@@ -68,7 +68,7 @@ Multiple algorithms were implemented and compared.
 |------|--------------|
 | Naive Bayes | 80.0 |
 | K-Nearest Neighbors (KNN) | 79.44 |
-| Decision Tree (Before Tuning) | 81.2 |
+| Decision Tree (Before Tuning) | 76.2 |
 | **Decision Tree (After Tuning)** | **83.4** |
 
 ---
