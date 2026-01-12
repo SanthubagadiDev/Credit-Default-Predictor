@@ -11,3 +11,7 @@ The dataset comes from the UCI Machine Learning Repository and contains real cre
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 Predicting credit card default risk using machine learning and historical payment data.
+
+
+
+![Confusion Matrix](images/confusion_matrix.png)
