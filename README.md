@@ -2,8 +2,7 @@
 
 A machine learning project to predict **credit card default risk** using demographic information, credit data, and historical payment behavior.
 
-## 🌐 Website
-- [visit_model](https://credit-default-predictor-ka8p4ujehawreaqlwu8eom.streamlit.app/)
+## 🔗 Live Demo: [Visit the Web App](https://credit-default-predictor-ka8p4ujehawreaqlwu8eom.streamlit.app/)
 
 
 ## Overview
@@ -47,6 +46,7 @@ The objective of this project is to build a machine learning model that predicts
   - Scikit-learn
   - Matplotlib
   - Seaborn
+  - 
 
 ---
 
