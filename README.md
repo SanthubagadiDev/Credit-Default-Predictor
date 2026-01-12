@@ -103,7 +103,7 @@ Additional metrics were analyzed.
 | Class | Precision | Recall | F1-Score |
 |------|----------|--------|---------|
 | **No Default (0)** | 0.89 | 0.95 | 0.89 |
-| **Default (1)** | 0.71 | 0.75 | 0.48 |
+| **Default (1)** | 0.71 | 0.75 | 0.69 |
 | **Accuracy** |  |  | **0.83** | 
 
 ---
