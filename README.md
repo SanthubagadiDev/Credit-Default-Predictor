@@ -1,24 +1,17 @@
 # Credit Card Default Prediction
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
-![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A machine learning project to predict **credit card default risk** using demographic information, credit data, and historical payment behavior.
 
----
+**Credit card default prediction** is a critical task in the financial sector, as it helps banks and financial institutions minimize credit risk and make informed lending decisions. This project focuses on building a machine learning model to predict whether a credit card client will default on their payment in the following month.
 
-## 📌 Overview
-This project focuses on predicting whether a credit card customer will **default on payment in the next month**.  
-Multiple machine learning models were evaluated, and the final model was selected based on performance and interpretability.
-
-The dataset is sourced from **Kaggle (UCI Credit Card Default Dataset)** and contains real-world financial data from Taiwan.
+The dataset used in this project contains detailed information on credit card clients in Taiwan, including demographic characteristics, credit limits, repayment history, bill statements, and previous payment amounts from April 2005 to September 2005. A total of 25 variables are included, providing a comprehensive view of customer behavior and financial status.
 
 ---
 
 ## 📊 Dataset Information
-- **Source:** Kaggle (UCI Machine Learning Repository)
+- **Source:** [DATASET](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data)
+
 - **Time Period:** April 2005 – September 2005
 - **Total Records:** 30,000
 - **Total Features:** 25
@@ -36,7 +29,9 @@ The dataset is sourced from **Kaggle (UCI Credit Card Default Dataset)** and con
 ---
 
 ## 🎯 Problem Statement
-To build a classification model that predicts whether a customer will default on their credit card payment in the next month, with emphasis on identifying **high-risk customers**.
+Financial institutions face significant losses due to credit card defaults, making it essential to accurately predict customers who are likely to fail in meeting their payment obligations. Traditional risk assessment methods often struggle to capture complex relationships between customer demographics, repayment behavior, and financial history.
+
+The objective of this project is to build a machine learning model that predicts whether a credit card customer will default on their payment in the next month, using historical payment behavior, billing information, and demographic data.
 
 ---
 
